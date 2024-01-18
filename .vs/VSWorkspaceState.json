@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my-app",
+    "\\my-app\\src\\common\\utils",
+    "\\my-app\\src\\components",
+    "\\my-app\\src\\components\\Footer",
+    "\\my-app\\src\\locales",
+    "\\my-app\\src\\router",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Footer"
+  ],
+  "PreviewInSolutionExplorer": false
+}

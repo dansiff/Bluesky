@@ -1,4 +1,4 @@
-import { Row, Col } from "antd";
+import { Row, Col, Carousel } from "antd";
 import { withTranslation, TFunction } from "react-i18next";
 import { Slide } from "react-awesome-reveal";
 import { Button } from "../../common/Button";
